@@ -100,7 +100,7 @@ py ./qualtrics_data_compiler.py -r -n
 
 
 [qualtrics]: https://www.qualtrics.com/
-[cl]: ./CONTENT-LICENSE
+[cl]: https://osf.io/4xhm9
 [ccdata]: https://creativecommons.org/about/program-areas/open-data/
 [sl]: ./LICENSE
 [ccsoftware]: https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software
