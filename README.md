@@ -98,6 +98,20 @@ For Windows Systems:
 py ./qualtrics_data_compiler.py -r -n
 ```
 
+## Citation
+
+```
+@misc{Haim_Shaw_Heffernan_2022,
+  title={LAK Peer Review of Open Science and Reproducibility},
+  url={osf.io/74bzs},
+  DOI={10.17605/OSF.IO/74BZS},
+  publisher={OSF},
+  author={Haim, Aaron and Shaw, Stacy T and Heffernan, Neil T, III},
+  year={2022},
+  month={Sep}
+}
+```
+
 
 [qualtrics]: https://www.qualtrics.com/
 [cl]: https://osf.io/4xhm9
